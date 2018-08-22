@@ -2,5 +2,5 @@ git is a version control system.
 git is freen software.
 git has a mutable index called state.
 git tracks changes of files.
-create new dev.
-Create the second fenzhi&branch.
+Creating a new branch is quick AND simple.
+
